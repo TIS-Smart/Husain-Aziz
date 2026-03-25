@@ -1,4 +1,13 @@
-name,degree,topic,status,year,role
-"Current Ph.D. Student 1","Ph.D.","Transportation Infrastructure Resilience","Current","2024","Chair"
-"Current Ph.D. Student 2","Ph.D.","Smart Mobility Systems","Current","2023","Chair"
-"Current M.S. Student 1","M.S.","Traffic Safety Analysis","Current","2024","Chair"
+name,degree,role,status,start_term,graduation,institution,notes
+"Shanjeeda Akter",Ph.D.,Chair,Graduated,,Summer 2024,Kansas State University,
+"Aditya K. Jha",Ph.D.,Chair,Current,Spring 2024,Spring 2027,Kansas State University,
+"Chelsea Roes",MS,Chair,Current,Fall 2024,Spring 2026,Kansas State University,
+"Eric Saasita",Ph.D.,Chair,Current,Summer 2023,Spring 2026,Kansas State University,
+"MohammadMahdi Miraj",Ph.D.,Chair,Deceased,Fall 2022,,Kansas State University,
+"Mohammad Najjartabar Bisheh",Ph.D.,External Chair,Graduated,,Spring 2022,Kansas State University,
+"Abdulaziz Al-Shehri",Ph.D.,Member,Current,,Spring 2022,Kansas State University,Ph.D. Candidate
+"Jack Cunningham",MS,Member,Graduated,,,Kansas State University,
+"Xiaodan Xu",Ph.D.,Member,Graduated,,,Georgia Tech,External member
+"Qiangqiang Guo",Ph.D.,Member,Graduated,,Spring 2023,University of Washington,External member
+"Peng Wang",MS,Member,Graduated,,,Kansas State University,
+"Abdullah Alshayji",MS,Member,Graduated,,,Kansas State University,

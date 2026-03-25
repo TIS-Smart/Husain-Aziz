@@ -1,5 +1,19 @@
-title,agency,amount,period,role,status,co_pis,description
-"FMCSA High-Priority Grant","Federal Motor Carrier Safety Administration","$349,051","2023-2025","PI","Active","Dr. Eric Fitzsimmons, Dr. Doina Caragea","Project description coming soon."
-"NSF Research Grant","National Science Foundation","","","PI","Active","","Project description coming soon."
-"FHWA Transportation Research","Federal Highway Administration","","","PI/Co-PI","Active","","Project description coming soon."
-"KDOT Research Project","Kansas Department of Transportation","","","PI/Co-PI","Active","","Project description coming soon."
+title,sponsor,amount,role,start_date,end_date,status,co_pis
+"NSF EPSCoR: RII Track-1: Adaptive and Resilient Infrastructures driven by Social Equity (ARISE)",NSF,"$20,000,000",Co-PI,06/2022,05/2027,Active,"PI: Dr. Belinda Sturm (KU)"
+"Leveraging Big Data to Improve CMV Safety",FMCSA,"$1,410,700","Co-PI (18%)",12/2025,12/2027,Active,"PI: Dr. Eric Fitzsimmons"
+"Midwest Commercial Motor Vehicle Collective: Third Midwest Commercial Vehicle Safety Summit",FMCSA,"$1,377,749",Co-PI,09/2024,09/2026,Active,"PI: Dr. Eric Fitzsimmons"
+"Data-Driven CMV Enforcement Optimization and Driver Education in High-Risk Tennessee Corridors",FMCSA,"$599,961",Lead-PI at K-State,12/2025,12/2027,Active,"Lead: University of Tennessee"
+"FMCSA High-Priority Grant: Crash Prediction for Commercial Motor Vehicles",FMCSA,"$349,051",PI,10/2023,10/2025,Active,"Co-PIs: Drs. Fitzsimmons and Caragea"
+"Planning and Investing for Autonomous Maintenance Technology Deployments with Informed Cost-Benefits under Varying Environmental Conditions",FHWA,"$101,075",PI,08/2024,06/2026,Active,
+"Investigating the role of human factors, vehicle safety features, and types of crashes on injury severity in Kansas",KDOT,"$80,995",PI,10/2025,03/2027,Active,
+"Golden-Hour Identification for Rural Crashes in Kansas",KDOT,"$67,373",PI,09/2023,02/2025,Complete,
+"Assessing the safety, mobility, and environmental benefits of connected infrastructure deployment in Kansas",KDOT,"$70,493",PI,09/2022,08/2024,Complete,
+"Exploring the autonomous truck mounted attenuator (ATMA) technology potential for Kansas",KDOT,"$35,866",PI,08/2022,01/2025,Complete,
+"Global Campus Course Development Award",KSU,"$9,000",PI,06/2022,05/2023,Complete,
+"Can wireless-charging pavements generate revenues to recover the highway funds",KDOT,"$35,514",PI,09/2021,12/2022,Complete,
+"Smart Cities: Co-optimization of signal control and curbside utilization using connected vehicle technologies",BHC/KSU,"$95,000",PI,04/2021,12/2022,Complete,
+"Connected and Automated Future of Transportation for Kansas",KDOT,"$35,868",PI,10/2020,12/2021,Complete,
+"Big-data solutions for Mobility",US DOE,"$300,000",PI,10/2017,10/2018,Complete (ORNL),
+"Smart Urban Signal Infrastructure and Control—Urban Science Pillar",US DOE,"$600,000",PI,10/2016,10/2019,Complete (ORNL),
+"Automated mobility district modeling",US DOE,"$140,000",Co-PI,10/2017,10/2019,Complete (ORNL),
+"Extending urban data and modeling—Urban Science Pillar",US DOE,"$135,000",PI,10/2016,10/2017,Complete (ORNL),

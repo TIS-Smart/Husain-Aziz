@@ -1,21 +1,38 @@
-title,authors,journal,year,citations,doi,status
-"Exploring the determinants of pedestrian–vehicle crash severity in New York City","HMA Aziz, SV Ukkusuri, S Hasan","Accident Analysis & Prevention 50, 1298-1309",2013,305,"",Published
-"Random parameter model used to explain effects of built-environment characteristics on pedestrian crash frequency","S Ukkusuri, S Hasan, HMA Aziz","Transportation Research Record 2237(1), 98-106",2011,231,"",Published
-"Exploring the impact of walk–bike infrastructure, safety perception, and built-environment on active transportation mode choice","HMA Aziz, NN Nagle, AM Morton, MR Hilliard, DA White, RN Stewart","Transportation, 1-23",2017,194,"",Published
-"A real-time network-level traffic signal control methodology with partial connected vehicle information","SMAB Al Islam, A Hajbabaie, HMA Aziz","Transportation Research Part C 121, 102830",2020,128,"",Published
-"Integration of environmental objectives in a system optimal dynamic traffic assignment model","HM Aziz, SV Ukkusuri","Computer-Aided Civil and Infrastructure Engineering 27(7), 494-511",2012,114,"",Published
-"A junction-tree based learning algorithm to optimize network wide traffic control","F Zhu, HMA Aziz, X Qian, SV Ukkusuri","Transportation Research Part C 58, 487-501",2015,95,"",Published
-"A high resolution agent-based model to support walk-bicycle infrastructure investment decisions","HMA Aziz, BH Park, A Morton, RN Stewart, M Hilliard, M Maness","Transportation Research Part C 86, 280-299",2018,88,"",Published
-"Mixed traffic flow of human driven vehicles and automated vehicles on dynamic transportation networks","Q Guo, XJ Ban, HMA Aziz","Transportation Research Part C 128, 103159",2021,87,"",Published
-"Learning-based traffic signal control algorithms with neighborhood information sharing","HMA Aziz, F Zhu, SV Ukkusuri","Journal of Intelligent Transportation Systems 22(1), 40-52",2018,71,"",Published
-"A bi-level formulation for the combined dynamic equilibrium based traffic signal control","S Ukkusuri, K Doan, HMA Aziz","Procedia-Social and Behavioral Sciences 80, 729-752",2013,65,"",Published
-"Understanding short-term travel behavior under personal mobility credit allowance scheme","HMA Aziz, SV Ukkusuri, J Romero","Transportation Research Part D 36, 121-137",2015,64,"",Published
-"An efficient parallel sampling technique for Multivariate Poisson-Lognormal model","X Zhan, HMA Aziz, SV Ukkusuri","Analytic Methods in Accident Research 8, 45-60",2015,55,"",Published
-"A modal-based approach for estimating electric vehicle energy consumption in transportation networks","X Xu, HMA Aziz, R Guensler","Transportation Research Part D 75, 249-264",2019,48,"",Published
-"Unified framework for dynamic traffic assignment and signal control with cell transmission model","HMA Aziz, SV Ukkusuri","Transportation Research Record 2311(1), 73-84",2012,47,"",Published
-"Exploring the trade-off between greenhouse gas emissions and travel time in daily travel decisions","HMA Aziz, SV Ukkusuri","Transportation Research Part D 32, 334-353",2014,46,"",Published
-"A scalable energy modeling framework for electric vehicles in regional transportation networks","X Xu, HMA Aziz, H Liu, MO Rodgers, R Guensler","Applied Energy 269, 115095",2020,43,"",Published
-"Determining the impact of personal mobility carbon allowance schemes in transportation networks","HMA Aziz, SV Ukkusuri, X Zhan","Networks and Spatial Economics 17(2), 505-545",2017,29,"",Published
-"Stochastic Gradient-Based Optimal Signal Control With Energy Consumption Bounds","SMAB Al Islam, HMA Aziz, A Hajbabaie","IEEE Transactions on Intelligent Transportation Systems",2020,28,"",Published
-"Tradable emissions credits for personal travel","HMA Aziz, SV Ukkusuri","International Journal of Advances in Engineering Sciences and Applied Mathematics",2013,27,"",Published
-"Modeling and control using stochastic distribution control theory for intersection traffic flow","H Wang, SV Patil, HMA Aziz, S Young","IEEE Transactions on Intelligent Transportation Systems 23(3), 1885-1898",2020,24,"",Published
+title,authors,journal,year,citations,doi,type
+"Exploring the determinants of pedestrian–vehicle crash severity in New York City","Aziz, H.M.A., Ukkusuri, S.V., Hasan, S.","Accident Analysis & Prevention",2013,305,10.1016/j.aap.2012.09.024,journal
+"Random parameter model used to explain effects of built-environment characteristics on pedestrian crash frequency","Ukkusuri, S.V., Hasan, S., Aziz, H.M.A.","Transportation Research Record",2011,231,10.3141/2237-11,journal
+"Exploring the impact of walk–bike infrastructure, safety perception, and built-environment on active transportation mode choice","Aziz, H.M.A., Nagle, N.N., Morton, A.M., Hilliard, M.R., White, D.A., Stewart, R.N.","Transportation",2017,194,10.1007/s11116-017-9760-8,journal
+"A real-time network-level traffic signal control methodology with partial connected vehicle information","Al Islam, S.M.A.B., Hajbabaie, A., Aziz, H.M.A.","Transportation Research Part C",2020,128,10.1016/j.trc.2020.102830,journal
+"Integration of environmental objectives in a system optimal dynamic traffic assignment model","Aziz, H.M.A., Ukkusuri, S.V.","Computer-Aided Civil and Infrastructure Engineering",2012,114,10.1111/j.1467-8667.2012.00756.x,journal
+"A junction-tree based learning algorithm to optimize network-wide traffic control","Zhu, F., Aziz, H.M.A., Qian, X., Ukkusuri, S.V.","Transportation Research Part C",2015,95,10.1016/j.trc.2015.09.004,journal
+"A high resolution agent-based model to support walk-bicycle infrastructure investment decisions","Aziz, H.M.A., Park, B.H., Morton, A., Stewart, R.N., Hilliard, M., Maness, M.","Transportation Research Part C",2018,88,10.1016/j.trc.2017.11.012,journal
+"Mixed traffic flow of human driven vehicles and automated vehicles on dynamic transportation networks","Guo, Q., Ban, X.J., Aziz, H.M.A.","Transportation Research Part C",2021,87,10.1016/j.trc.2021.103159,journal
+"Learning-based traffic signal control algorithms with neighborhood information sharing","Aziz, H.M.A., Zhu, F., Ukkusuri, S.V.","Journal of Intelligent Transportation Systems",2018,71,,journal
+"Demand uncertainty aware curbside space allocation planning in shared-use transportation networks","Akter, S., Aziz, H.M.A.","Transportation Research Part E",2025,New,10.1016/j.tre.2025.104245,journal
+"Uncertainty-cognizant post-disaster routing with progressive hedging centered multi meta-heuristic approach","Pratap, S., Aziz, H.M.A.","Transportation Research Part E",2025,New,10.1016/j.tre.2025.104215,journal
+"Predicting commercial motor vehicle crash severity in Kansas using explainable machine learning","Gyawali, N., Khanal, S., Caragea, D., Aziz, H.M.A., Fitzsimmons, E.J.","Journal of Transportation Safety & Security",2025,New,,journal
+"A scalable energy modeling framework for electric vehicles in regional transportation networks","Xu, X., Aziz, H.M.A., Liu, H., Rodgers, M.O., Guensler, R.","Applied Energy",2020,43,10.1016/j.apenergy.2020.115095,journal
+"A bi-level formulation for the combined dynamic equilibrium based traffic signal control","Ukkusuri, S.V., Doan, K., Aziz, H.M.A.","Procedia - Social and Behavioral Sciences",2013,65,,journal
+"Understanding short-term travel behavior under personal mobility credit allowance scheme using experimental economics","Aziz, H.M.A., Ukkusuri, S.V., Romero, J.","Transportation Research Part D",2015,64,,journal
+"An efficient parallel sampling technique for Multivariate Poisson-Lognormal model","Zhan, X., Aziz, H.M.A., Ukkusuri, S.V.","Analytic Methods in Accident Research",2015,55,,journal
+"A modal-based approach for estimating electric vehicle energy consumption in transportation networks","Xu, X., Aziz, H.M.A., Guensler, R.","Transportation Research Part D",2019,48,,journal
+"Unified framework for dynamic traffic assignment and signal control with cell transmission model","Aziz, H.M.A., Ukkusuri, S.V.","Transportation Research Record",2012,47,,journal
+"Exploring the trade-off between greenhouse gas emissions and travel time in daily travel decisions","Aziz, H.M.A., Ukkusuri, S.V.","Transportation Research Part D",2014,46,,journal
+"Stochastic Gradient-Based Optimal Signal Control With Energy Consumption Bounds","Al Islam, S.M.A.B., Aziz, H.M.A., Hajbabaie, A.","IEEE Transactions on Intelligent Transportation Systems",2020,28,,journal
+"Determining the impact of personal mobility carbon allowance schemes in transportation networks","Aziz, H.M.A., Ukkusuri, S.V., Zhan, X.","Networks and Spatial Economics",2017,29,,journal
+"An optimization-based planning tool for on-demand mobility service operations","Aziz, H.M.A., Garikapati, V., Rodriguez, T.K., Zhu, L., Sun, B., Young, S.E., Chen, Y.","International Journal of Sustainable Transportation",2020,,,journal
+"Network traffic control in cyber-transportation systems accounting for user-level fairness","Aziz, H.M.A., Ukkusuri, S.V.","Journal of Intelligent Transportation Systems",2016,,,journal
+"A novel approach to estimate emissions from large transportation networks","Aziz, H.M.A., Ukkusuri, S.V.","International Journal of Sustainable Transportation",2018,,,journal
+"Deep Reinforcement Learning Applications in Connected and Automated Transportation Networks: A Survey","Aziz, H.M.A., Das, S.","Deep Learning and Its Applications for Vehicle Networks (CRC Press)",2023,,,book_chapter
+"An Interactive Geospatial Tool for Post-Crash Emergency Response Planning and Analysis","Kommineni, N., Aziz, H.M.A.","International Conference on Transportation and Development 2025",2025,,,conference
+"Predicting Pedestrian Involvement in Fatal Crashes Using a TabNet Deep Learning Model","Al-Ani, O., Haroon, S.M., Caragea, D., Aziz, H.M.A., Fitzsimmons, E.J.","ACM SIGSPATIAL Workshop on Computational Transportation Science",2023,,,conference
+"Assessing Impacts of Shared Bike-Bus Lanes on Bus Operations","Akter, S., Aziz, H.M.A.","Procedia Computer Science",2023,,,conference
+"Analysis of Factors Affecting Discretionary Lane Change","Alshehri, A., Aziz, H.M.A.","International Conference on Transportation and Development 2022",2022,,,conference
+"Energy and Mobility Impacts of System Optimal Dynamic Traffic Assignment for a Mixed Traffic of Legacy and Automated Vehicles","Aziz, H.M.A.","Transportation Research Record",2019,,,journal
+"Operational interdependency between electrical substations and road networks under extreme events","Aziz, H.M.A., Banisakher, D.M.","IEEE International Smart Cities Conference",2020,,,conference
+"Effectiveness of Automated Connected Shuttles (ACS) During COVID-19 Pandemic","Akter, S., Aziz, H.M.A.","International Workshop on Computational Transportation Science",2021,,,conference
+"A Data-driven Framework to Identify Human-Critical Autonomous Vehicle Testing and Deployment Zones","Aziz, H.M.A., Islam, H.","International Workshop on Computational Transportation Science",2021,,,conference
+"Tradable emissions credits for personal travel: a market-based approach to achieve air quality standards","Aziz, H.M.A., Ukkusuri, S.V.","Int. Journal of Adv. Engineering Science and Applied Math.",2013,27,,journal
+"Modeling and Control Using Stochastic Distribution Control Theory for Intersection Traffic Flow","Wang, H., Patil, S., Aziz, H.M.A., Young, S.","IEEE Transactions on Intelligent Transportation Systems",2020,24,,journal
+"Integration of environmental objectives in a system optimal dynamic traffic assignment","Aziz, H.M.A., Ukkusuri, S.V.","Computer-Aided Civil and Infrastructure Engineering",2012,114,,journal
+"Investigating the role of human factors, vehicle safety features, and types of crashes on injury severity in Kansas","Aziz, H.M.A. et al.","KDOT Report",2027,,,report

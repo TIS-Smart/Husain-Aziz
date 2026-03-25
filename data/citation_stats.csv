@@ -1,4 +1,4 @@
-metric,all_time,since_2021
-Citations,1989,1196
-h-index,21,17
-i10-index,29,25
+metric,value
+citations,1989
+h_index,21
+i10_index,29
